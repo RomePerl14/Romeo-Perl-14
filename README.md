@@ -8,7 +8,8 @@ Yo whats popppin I'm Romeo Perlstein an Aerospace engineer who is learning how t
   }
   
   ////////////////////////////////////##################################
- import numpy as np, import opencv
+ 
+  import numpy as np, import opencv
   
   print("I'm just a silly little engineer", "\n")
   print("trying to learn how to make silly little computers", "\n")
